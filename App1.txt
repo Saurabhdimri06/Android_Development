@@ -1,0 +1,5 @@
+The app1 is the basic currency converter app.
+The currency converter app takes the data field entered by user and converts the Dollars into Rupees
+
+This app uses adding image to the layout , reading the lodgs for the user entered value and hence calculating and showing the 
+output in the Toast format .
