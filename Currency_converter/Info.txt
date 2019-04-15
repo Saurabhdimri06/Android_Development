@@ -1,0 +1,2 @@
+This is the basic currency converter app.
+This app uses basic of audio and user input in logs and gives output in Toast
