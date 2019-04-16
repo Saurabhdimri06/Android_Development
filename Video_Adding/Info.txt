@@ -1,0 +1,7 @@
+In this it is shown on how to add video in an android application.
+For adding the video we have to drag the video layou in Activity.xml file.
+After that new folder has to be created in the res folder under the name (raw).
+  Inside that raw folder the video to be added is copied and the commnads are written in the mainactivity.java file
+  to finally make the video running in the app.
+  
+Hope this helps!!
