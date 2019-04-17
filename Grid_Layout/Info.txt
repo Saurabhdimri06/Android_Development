@@ -1,0 +1,4 @@
+Here a basic grid activity for the android activity.xml is defined.
+In grid you can add diffrent collumns and values (buttons and other necessaries simultaneously)
+
+It is a simple tool that empowers you to get multiple parts working in together   
